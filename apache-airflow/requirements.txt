@@ -1,0 +1,11 @@
+apache-airflow==2.8.0
+apache-airflow-providers-postgres==5.10.0
+apache-airflow-providers-mysql==5.5.0
+apache-airflow-providers-google==10.14.0
+apache-airflow-providers-amazon==8.16.0
+apache-airflow-providers-http==4.8.0
+apache-airflow-providers-ssh==3.10.0
+apache-airflow-providers-ftp==3.7.0
+pandas==2.1.4
+numpy==1.26.2
+requests==2.31.0
