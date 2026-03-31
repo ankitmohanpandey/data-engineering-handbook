@@ -345,8 +345,7 @@ def persistence_demo():
     
     spark.stop()
 
-
-# DETAILED EXPLANATION:
+# DETAILED EXPLANATION:-
 """
 RDD (RESILIENT DISTRIBUTED DATASET) CONCEPTS:
 
