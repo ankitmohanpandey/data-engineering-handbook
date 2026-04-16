@@ -6,7 +6,7 @@ The goal of this repository is to document concepts, share reusable patterns, an
 
 📌 What This Repository Contains
 
-This repository includes:
+This repository includes:-
 
 Data Engineering concepts and implementations
 
