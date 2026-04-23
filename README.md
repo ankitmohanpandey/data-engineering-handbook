@@ -4,7 +4,7 @@ This repository contains my personal learning, experiments, design notes, and ha
 
 The goal of this repository is to document concepts, share reusable patterns, and build practical implementations that can help both myself and others understand how modern data systems work.
 
-📌 What This Repository Contains
+📌 What This Repository Contains-
 
 This repository includes:-
 
