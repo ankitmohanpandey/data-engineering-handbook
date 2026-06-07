@@ -290,7 +290,7 @@ Social network analysis using GraphX.
 ### 7. Data Lake Processing
 Process data stored in S3, HDFS, etc.
 
----
+-----
 
 ## Best Practices
 
@@ -359,7 +359,7 @@ df = spark.read.parquet("output.parquet")
 - Check DAG visualization
 - Monitor stages, tasks, storage
 
----
+-----
 
 ## Troubleshooting
 
@@ -415,7 +415,7 @@ spark = SparkSession.builder \
 | Maturity | High | High | Medium | Medium |
 | Language Support | Python, Scala, Java, R | Java | Java, Scala, Python | Python, Java, Go |
 
----
+-----
 
 ## Deployment Modes
 
@@ -444,7 +444,7 @@ spark-submit --master k8s://https://k8s-api app.py
 spark-submit --master mesos://host:5050 app.py
 ```
 
----
+-----
 
 ## Quick Reference
 
@@ -486,7 +486,7 @@ df.createOrReplaceTempView("table")
 spark.sql("SELECT * FROM table WHERE age > 25").show()
 ```
 
----
+-----
 
 ## Resources
 
@@ -497,7 +497,7 @@ spark.sql("SELECT * FROM table WHERE age > 25").show()
 - **Stack Overflow**: Tag `apache-spark` or `pyspark`
 - **Learning**: https://spark.apache.org/examples.html
 
----
+-----
 
 ## Next Steps
 
