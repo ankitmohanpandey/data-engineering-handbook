@@ -1,0 +1,4 @@
+com/flink/app/StreamProcessingJob.class
+com/flink/app/StreamProcessingJob$EventAggregator.class
+com/flink/app/StreamProcessingJob$JsonParser.class
+com/flink/app/DataGenerator.class
