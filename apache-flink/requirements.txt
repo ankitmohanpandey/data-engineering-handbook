@@ -1,0 +1,7 @@
+# Apache Flink (PyFlink) dependencies
+# Pin to a specific stable release for reproducibility.
+apache-flink==1.20.0
+
+# Optional: Kafka connector helper (only needed if you want to inspect
+# messages outside of Flink's own Kafka connector JARs)
+kafka-python==2.0.2
